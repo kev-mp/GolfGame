@@ -1,2 +1,2 @@
 # Golf Game
-A simple mini-golf game made in Unity.
+A simple mini-golf game made in Unity. The contents of this repository are for the project files, and not for the playable version of the game itself. In order to actually play the game, please go to [this Google Drive link](https://drive.google.com/drive/folders/1kv9gMfsz7LMWbIYlnY25FlCFL9fQw1LF?usp=sharing), select the `Final Project Demo` folder, and download `Mini Golf Project COMPLETE.zip`. This Google Drive has a video that showcases the game in action, as well.
