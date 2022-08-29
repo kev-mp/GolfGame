@@ -5,3 +5,11 @@ A simple mini-golf game made in Unity. The contents of this repository are for t
 - [Golf Ball Sprite](http://clipart-library.com/clip-art/90-900685_golf-clipart-golf-balls-clip-art-pastel-hot.htm)
 - [Ground/Object Textures](https://screamingbrainstudios.itch.io/tiny-texture-pack)
 - [Skybox Textures](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633)
+
+## Screenshots
+
+![Home menu](golfimage1.png "The home menu.")
+
+![Gameplay](golfimage2.png "Gameplay screen.")
+
+![Win screen](golfimage3.png "Win screen.")
